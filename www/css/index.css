@@ -28,7 +28,7 @@ body {
 }
 
 
-#header{
+#app_header{
     display: flex;
     flex-direction: row;
     height: 50px;
